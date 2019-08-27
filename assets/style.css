@@ -1,0 +1,11 @@
+body{
+	  margin: 0
+}
+.header{
+	width: 100%;
+	display: block;
+	position: fixed;
+	height: 40px;
+	padding: 10px;
+	background: #DDDDDD;
+}
